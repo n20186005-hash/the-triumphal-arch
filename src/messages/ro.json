@@ -1,0 +1,330 @@
+{
+  "meta": {
+    "title": "Arcul de Triumf",
+    "description": "Ghid complet pentru Arcul de Triumf din Chișinău. Aflați despre această atracție, locație, informații de vizitare și sfaturi de călătorie."
+  },
+  "header": {
+    "home": "Acasă",
+    "gallery": "Galerie",
+    "reviews": "Recenzii",
+    "map": "Hartă",
+    "backToHome": "Înapoi la acasă"
+  },
+  "hero": {
+    "title": "Arcul de Triumf",
+    "subtitle": "Monument istoric · Chișinău",
+    "rating": "4.7",
+    "reviewCount": "7,629 recenzii",
+    "type": "Monument istoric",
+    "openMaps": "Vezi pe Google Maps"
+  },
+  "intro": {
+    "title": "Descoperă Arcul de Triumf",
+    "description": "Arcul de Triumf din Chișinău este un monument iconic situat în Piața Marii Adunări Naționale. Construit pentru a celebra victoria în Războiul de Independență și ulterior pentru a comemora diverse evenimente istorice, acesta reprezintă un simbol al identității naționale a Republicii Moldova.",
+    "visitGuide": {
+      "title": "Sfaturi pentru vizitare",
+      "items": [
+        "Monumentul este accesibil tot timpul anului, ziua.",
+        "O locație excelentă pentru fotografii și plimbări.",
+        "Ofersă vederi panoramice asupra Pieței Marii Adunări Naționale."
+      ]
+    },
+    "alsoKnownAs": {
+      "title": "Momentul important",
+      "items": [
+        "Piața Marii Adunări Naționale",
+        "Arhitectură neoclasică",
+        "Simbol național",
+        "Monument de importanță națională"
+      ]
+    }
+  },
+  "knowledge": {
+    "title": "Despre Arcul de Triumf",
+    "sections": [
+      {
+        "id": "history",
+        "title": "Context istoric",
+        "content": "Arcul de Triumf din Chișinău a fost construit inițial în secolul al XIX-lea pentru a celebra victoria Imperiului Rus în Războiul de Independență. De-a lungul timpului, monumentul a suferit modificări și renovări, devenind un simbol al rezistenței și identității naționale a Moldovei."
+      },
+      {
+        "id": "architecture",
+        "title": "Arhitectură și design",
+        "content": "Monumentul prezintă elemente de arhitectură neoclasică, cu coloane elegante și basoreliefuri care înfățișează scene istorice. Designul său impunător îl face să fie un punct de referință în peisajul urban al Chișinăului."
+      },
+      {
+        "id": "significance",
+        "title": "Importanță culturală",
+        "content": "Arcul de Triumf nu este doar un monument arhitectural, ci și un loc de întâlnire pentru evenimente publice, parade și ceremonii oficiale. Acesta ocupă un loc central în viața civică a capitalei Moldovei."
+      },
+      {
+        "id": "location",
+        "title": "Amplasare și împrejurimi",
+        "content": "Situat în inima Chișinăului, în Piața Marii Adunări Naționale, monumentul este înconjurat de clădiri guvernamentale importante, inclusiv clădirea Președinției și a Parlamentului, fiind parte integrantă a centrului istoric al orașului."
+      }
+    ]
+  },
+  "basicInfo": {
+    "title": "Informații de bază",
+    "officialName": "Denumire oficială",
+    "officialNameValue": "Arcul de Triumf",
+    "type": "Tip atracție",
+    "typeValue": "Monument istoric",
+    "country": "Țară",
+    "countryValue": "Republica Moldova",
+    "city": "Oraș",
+    "cityValue": "Chișinău",
+    "googleRating": "Evaluare Google",
+    "googleRatingValue": "4.7 (7,629)",
+    "phone": "Telefon",
+    "phoneValue": "+373 22 201 707",
+    "address": "Adresă",
+    "addressValue": "Piața Marii Adunări Naționale, Chișinău, Moldova",
+    "plusCode": "Cod Plus",
+    "plusCodeValue": "2RFM+W2 Chișinău, Moldova"
+  },
+  "hours": {
+    "title": "Program de vizitare",
+    "park": "Acces monument",
+    "parkTime": "Deschis tot timpul anului (accesibil ziua)",
+    "bestTime": "Cel mai bun moment pentru vizitare",
+    "bestTimeSpring": "Primăvara: Vreme plăcută, ideal pentru fotografii",
+    "bestTimeSummer": "Vara: Zile însorite, perfect pentru plimbări",
+    "bestTimeAutumn": "Toamna: Frunziș colorat, atmosferă romantică",
+    "bestTimeWinter": "Iarna: Peisaj de basm, minus temperaturi scăzute",
+    "tip": "Fiind un monument în aer liber, accesul este liber. Evenimentele speciale pot afecta accesul temporar."
+  },
+  "tickets": {
+    "title": "Informații acces",
+    "park": "Vizitare",
+    "parkPrice": "Acces gratuit",
+    "parking": "Parcare",
+    "parkingPrice": "Parcare cu plată în apropiere",
+    "guided": "Tur ghidat",
+    "guidedPrice": "Autoghidare"
+  },
+  "transport": {
+    "title": "Cum să ajungi",
+    "fromCenter": "Din centru",
+    "fromCenterDesc": "Monumentul este situat în centul orașului, ușor accesibil pe jos.",
+    "fromStation": "Din stația de autobuz",
+    "fromStationDesc": "Mai multe rute de autobuz și troleibuz opresc în Piața Marii Adunări Naționale.",
+    "fromAirport": "De la aeroport",
+    "fromAirportDesc": "Luați un taxi sau autobuzul de la Aeroportul Internațional Chișinău până în centru.",
+    "publicTransport": "Transport public",
+    "publicTransportDesc": "Rețea extinsă de autobuze și troleibuze cu stații în apropiere.",
+    "walking": "Pietonal",
+    "walkingDesc": "Situat central, accesibil pe jos din orice zonă a centrului.",
+    "driving": "Mașină",
+    "drivingDesc": "Parcarea în centru este limitată și cu plată. Se recomandă transportul public."
+  },
+  "route": {
+    "title": "Traseu recomandat",
+    "overview": "O plimbare scenică prin centrul istoric al Chișinăului.",
+    "steps": [
+      "Începeți la Arcul de Triumf în Piața Marii Adunări Naționale",
+      "Admirați arhitectura neoclasică a monumentului",
+      "Mergeți spre clădirile guvernamentale din apropiere",
+      "Vizitați Parcul Ștefan cel Mare pentru o pauză de relaxare",
+      "Terminați cu o vizită la muzeele din apropiere"
+    ]
+  },
+  "photoSpots": {
+    "title": "Cele mai bune locuri pentru fotografii",
+    "spots": [
+      {
+        "title": "Fațada Arcului de Triumf",
+        "description": "Vederi frontale ale monumentului, perfecte pentru fotografii de ansamblu cu arhitectură neoclasică.",
+        "location": "Piața Marii Adunări Naționale",
+        "image": "/gallery/the-triumphal-arch-2.jpg"
+      },
+      {
+        "title": "Unghi panoramic",
+        "description": "Fotografii din unghiuri largi care capturează monumentul și piața înconjurătoare.",
+        "location": "Piața Marii Adunări Naționale",
+        "image": "/gallery/the-triumphal-arch-4.jpg"
+      },
+      {
+        "title": "Detalii arhitecturale",
+        "description": "Apropierea de basoreliefurile și coloanele monumentului dezvăluie detalii impresionante.",
+        "location": "Arcul de Triumf",
+        "image": "/gallery/the-triumphal-arch-5.jpg"
+      },
+      {
+        "title": "Vedere spre clădirile guvernamentale",
+        "description": "Fotografii cu Arcul de Triumf în prim-plan și clădirile oficiale în fundal.",
+        "location": "Piața Marii Adunări Naționale",
+        "image": "/gallery/the-triumphal-arch-8.jpg"
+      }
+    ]
+  },
+  "hotels": {
+    "title": "Ghid cazare",
+    "hotels": [
+      {
+        "name": "Centrul Chișinăului",
+        "desc": "Zona din jurul Pieței Marii Adunări Naționale oferă acces rapid la Arcul de Triumf și alte atracții importante. Ideal pentru turiștii care doresc să fie în inima acțiunii.",
+        "price": "Recomandat"
+      },
+      {
+        "name": "Cartierul Botanica",
+        "desc": "Situat la periferia orașului, acest cartier oferă opțiuni de cazare mai liniștite și accesibil prețuri.",
+        "price": "Buget"
+      },
+      {
+        "name": "Zona Buiucani",
+        "desc": "O zonă rezidențială pitorească, potrivită pentru o experiență autentică și relaxantă.",
+        "price": "Recomandat"
+      },
+      {
+        "name": "Aproape de Aeroport",
+        "desc": "Pentru călătorii cu zboruri dimineața devreme sau târziu, această zonă oferă conveniență maximă.",
+        "price": "Convenabil"
+      }
+    ]
+  },
+  "gallery": {
+    "title": "Galerie foto",
+    "subtitle": "Vederi ale Arcului de Triumf",
+    "captions": [
+      "Vedere frontală",
+      "Detalii arhitecturale",
+      "Piața Mare",
+      "Coloane",
+      "Basoreliefuri",
+      "Vedere panoramică",
+      "Iarnă",
+      "Împrejurimi",
+      "Monument nocturn",
+      "Sculpturi",
+      "Vizitatori",
+      "Ceremonii",
+      "Detalii"
+    ],
+    "viewAll": "Vezi pe Google Maps",
+    "showAll": "Vezi toate fotografiile",
+    "showLess": "Arată mai puține"
+  },
+  "reviews": {
+    "title": "Recenzii de la vizitatori",
+    "declaration": "Recenziile vizitatorilor pot fi vizualizate pe Google Maps.",
+    "moreReviews": "Vezi mai multe recenzii pe Google Maps",
+    "items": [
+      {
+        "name": "Ion P.",
+        "rating": 5,
+        "date": "2026-03-15",
+        "text": "Un simbol al Chișinăului de neratat. Arhitectura este impresionantă și locația este perfectă pentru fotografii."
+      },
+      {
+        "name": "Maria T.",
+        "rating": 5,
+        "date": "2026-02-20",
+        "text": "Am vizitat acest monument în timpul unei parade. Atmosfera a fost fantastică, iar monumentul arată spectaculos."
+      },
+      {
+        "name": "Andrei M.",
+        "rating": 4,
+        "date": "2026-01-10",
+        "text": "Un loc plin de istorie. Este gratuit și accesibil oricând. Recomand vizitarea în timpul zilei pentru lumina ideală pentru fotografii."
+      },
+      {
+        "name": "Elena C.",
+        "rating": 5,
+        "date": "2025-12-05",
+        "text": "Unul dintre cele mai frumoase monumente din Chișinău. Este un loc perfect pentru a înțelege istoria și cultura Moldovei."
+      },
+      {
+        "name": "Vasile D.",
+        "rating": 5,
+        "date": "2025-11-18",
+        "text": "Am fost impresionat de detaliile arhitecturale. Este un loc de referință în Chișinău și un simbol național important."
+      },
+      {
+        "name": "Ana S.",
+        "rating": 5,
+        "date": "2025-10-30",
+        "text": "Perfect pentru o plimbare de weekend. Monumentul este întotdeauna bine întreținut și oferă o perspectivă asupra istoriei Moldovei."
+      }
+    ]
+  },
+  "mapSection": {
+    "title": "Locație pe hartă",
+    "subtitle": "Piața Marii Adunări Naționale, Chișinău, Moldova",
+    "openMaps": "Vezi pe Google Maps"
+  },
+  "footer": {
+    "rights": "© 2026 Arcul de Triumf Info",
+    "privacy": "Politica de confidențialitate",
+    "terms": "Termeni de utilizare",
+    "cookies": "Setări Cookie",
+    "officialResourcesTitle": "Resurse oficiale și partenere",
+    "officialLinks": {
+      "moldovaCulture": "Ministerul Culturii",
+      "moldovaTourism": "Turism Moldova",
+      "monumente": "Agenția de Inspectare și Restaurare a Monumentelor",
+      "chisinau": "Primăria Chișinău",
+      "chisinauProjects": "Proiecte Chișinău"
+    },
+    "disclaimer": "Acesta este un site ghid independent dedicat furnizării de informații de călătorie obiective și accurate."
+  },
+  "privacy": {
+    "title": "Politica de confidențialitate",
+    "lastUpdated": "Ultima actualizare: Mai 2026",
+    "sections": [
+      {
+        "title": "Colectarea informațiilor",
+        "content": "Când vizitați site-ul nostru, este posibil să colectăm automat informații de bază despre dispozitivul dumneavoastră, browser și comportamentul de navigare pentru a vă oferi o experiență mai bună. Aceste informații nu conțin identitatea dumneavoastră."
+      },
+      {
+        "title": "Utilizarea Cookie-urilor",
+        "content": "Folosim cookie-uri pentru a analiza traficul site-ului și a optimiza conținutul paginilor. Puteți gestiona preferințele în orice moment prin opțiunea de Setări Cookie din subsolul site-ului nostru."
+      },
+      {
+        "title": "Securitatea și protecția datelor",
+        "content": "Ne angajăm să protejăm securitatea datelor dumneavoastră de confidențialitate și nu vom vinde, închiria sau tranzacționa datele dumneavoastră de navigare către nicio organizație comercială terță."
+      }
+    ]
+  },
+  "terms": {
+    "title": "Termeni de utilizare",
+    "lastUpdated": "Ultima actualizare: Mai 2026",
+    "sections": [
+      {
+        "title": "Conținutul și utilizarea site-ului",
+        "content": "Acest site oferă informații despre Arcul de Triumf din Chișinău. Tot conținutul este doar pentru referință. Programul de vizitare și informațiile despre bilete pot suferi modificări în orice moment, vă rugăm să consultați anunțurile oficiale."
+      },
+      {
+        "title": "Proprietatea intelectuală",
+        "content": "Textele, imaginile și designul de layout de pe acest site sunt protejate prin drepturi de autor. Fără permisiune scrisă explicită, nimeni nu poate folosi conținutul site-ului în scopuri comerciale."
+      },
+      {
+        "title": "Declinarea responsabilității",
+        "content": "Facem eforturi pentru a asigura acuratețea și actualitatea informațiilor, dar nu purtăm răspundere legală pentru nicio întârziere sau pierdere cauzată direct sau indirect prin utilizarea informațiilor furnizate pe acest site."
+      }
+    ]
+  },
+  "cookieSettings": {
+    "title": "Setări Cookie",
+    "description": "Gestionați preferințele pentru cookie-uri.",
+    "essential": {
+      "title": "Cookie-uri esențiale",
+      "description": "Necesare pentru funcționalitatea de bază a site-ului și nu pot fi dezactivate.",
+      "badge": "Întotdeauna active"
+    },
+    "analytics": {
+      "title": "Analiză",
+      "description": "Ne ajută să înțelegem comportamentul vizitatorilor și să îmbunătățim site-ul."
+    },
+    "marketing": {
+      "title": "Marketing",
+      "description": "Folosite pentru urmărire între site-uri și livrarea de reclame personalizate."
+    },
+    "save": "Salvează preferințele",
+    "saved": "Preferințe salvate!"
+  },
+  "officialManagement": {
+    "title": "Despre Arcul de Triumf",
+    "text": "Arcul de Triumf este un monument istoric important situat în inima Chișinăului, reprezentând un simbol al identității naționale a Republicii Moldova."
+  }
+}

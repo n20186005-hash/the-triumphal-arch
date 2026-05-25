@@ -1,0 +1,331 @@
+{
+  "meta": {
+    "title": "The Triumphal Arch",
+    "description": "Complete guide to The Triumphal Arch in Chișinău. Learn about this historic monument, its location, visiting information, and travel tips."
+  },
+  "header": {
+    "home": "Home",
+    "gallery": "Gallery",
+    "reviews": "Reviews",
+    "map": "Map",
+    "backToHome": "Back to Home"
+  },
+  "hero": {
+    "title": "The Triumphal Arch",
+    "subtitle": "Historic Monument · Chișinău",
+    "rating": "4.7",
+    "reviewCount": "7,629 reviews",
+    "type": "Historic Monument",
+    "openMaps": "View on Google Maps",
+    "mapsLink": "https://maps.app.goo.gl/5fERqY3q8DvdoLFL6"
+  },
+  "intro": {
+    "title": "Discover The Triumphal Arch",
+    "description": "The Triumphal Arch (Arcul de Triumf) is an iconic monument located in the Great National Assembly Square in Chișinău. Originally built to celebrate the victory in the Russo-Turkish War, it has become a symbol of Moldova's national identity and independence.",
+    "visitGuide": {
+      "title": "Visit Tips",
+      "items": [
+        "The monument is accessible year-round during daylight hours.",
+        "Excellent location for photography and leisure walks.",
+        "Provides panoramic views of the Great National Assembly Square."
+      ]
+    },
+    "alsoKnownAs": {
+      "title": "Highlights",
+      "items": [
+        "Great National Assembly Square",
+        "Neoclassical architecture",
+        "National symbol",
+        "Nationally significant monument"
+      ]
+    }
+  },
+  "knowledge": {
+    "title": "About The Triumphal Arch",
+    "sections": [
+      {
+        "id": "history",
+        "title": "Historical Background",
+        "content": "The Triumphal Arch in Chișinău was originally built in the 19th century to celebrate the victory of the Russian Empire in the Russo-Turkish War. Over time, the monument underwent modifications and renovations, becoming a symbol of Moldova's resilience and national identity."
+      },
+      {
+        "id": "architecture",
+        "title": "Architecture & Design",
+        "content": "The monument features neoclassical architectural elements with elegant columns and bas-reliefs depicting historical scenes. Its imposing design makes it a landmark in Chișinău's urban landscape."
+      },
+      {
+        "id": "significance",
+        "title": "Cultural Significance",
+        "content": "The Triumphal Arch is not just an architectural monument but also a gathering place for public events, parades, and official ceremonies. It holds a central place in the capital's civic life."
+      },
+      {
+        "id": "location",
+        "title": "Location & Surroundings",
+        "content": "Located in the heart of Chișinău at the Great National Assembly Square, the monument is surrounded by important government buildings including the Presidency and Parliament, forming an integral part of the city's historic center."
+      }
+    ]
+  },
+  "basicInfo": {
+    "title": "Basic Information",
+    "officialName": "Official Name",
+    "officialNameValue": "The Triumphal Arch (Arcul de Triumf)",
+    "type": "Attraction Type",
+    "typeValue": "Historic Monument",
+    "country": "Country",
+    "countryValue": "Republic of Moldova",
+    "city": "City",
+    "cityValue": "Chișinău",
+    "googleRating": "Google Rating",
+    "googleRatingValue": "4.7 (7,629)",
+    "phone": "Phone",
+    "phoneValue": "+373 22 201 707",
+    "address": "Address",
+    "addressValue": "Great National Assembly Square, Chișinău, Moldova",
+    "plusCode": "Plus Code",
+    "plusCodeValue": "2RFM+W2 Chișinău, Moldova"
+  },
+  "hours": {
+    "title": "Visiting Hours",
+    "park": "Site Access",
+    "parkTime": "Open year-round (daylight hours)",
+    "bestTime": "Best Time to Visit",
+    "bestTimeSpring": "Spring: Pleasant weather, ideal for photography",
+    "bestTimeSummer": "Summer: Sunny days, perfect for walks",
+    "bestTimeAutumn": "Autumn: Colorful foliage, romantic atmosphere",
+    "bestTimeWinter": "Winter: Fairy-tale landscape, lower temperatures",
+    "tip": "As an outdoor monument, access is free. Special events may temporarily affect access."
+  },
+  "tickets": {
+    "title": "Admission Information",
+    "park": "Site Visit",
+    "parkPrice": "Free admission",
+    "parking": "Parking",
+    "parkingPrice": "Paid parking nearby",
+    "guided": "Guided Tours",
+    "guidedPrice": "Self-guided"
+  },
+  "transport": {
+    "title": "How to Get Here",
+    "fromCenter": "From Center",
+    "fromCenterDesc": "The monument is located in the city center, easily accessible on foot.",
+    "fromStation": "From Bus Station",
+    "fromStationDesc": "Multiple bus and trolleybus routes stop at the Great National Assembly Square.",
+    "fromAirport": "From Airport",
+    "fromAirportDesc": "Take a taxi or bus from Chișinău International Airport to the center.",
+    "publicTransport": "Public Transport",
+    "publicTransportDesc": "Extensive network of buses and trolleybuses with nearby stops.",
+    "walking": "Walking",
+    "walkingDesc": "Centrally located, accessible on foot from any area in the center.",
+    "driving": "Driving",
+    "drivingDesc": "Parking in the center is limited and paid. Public transport is recommended."
+  },
+  "route": {
+    "title": "Recommended Route",
+    "overview": "A scenic walk through the historic center of Chișinău.",
+    "steps": [
+      "Start at The Triumphal Arch in the Great National Assembly Square",
+      "Admire the neoclassical architecture of the monument",
+      "Walk towards the nearby government buildings",
+      "Visit Ștefan cel Mare Park for a relaxation break",
+      "End with a visit to the nearby museums"
+    ]
+  },
+  "photoSpots": {
+    "title": "Top Photo Spots",
+    "spots": [
+      {
+        "title": "Triumphal Arch Facade",
+        "description": "Front views of the monument, perfect for architectural overview shots with neoclassical design.",
+        "location": "Great National Assembly Square",
+        "image": "/gallery/the-triumphal-arch-2.jpg"
+      },
+      {
+        "title": "Panoramic Angle",
+        "description": "Wide-angle shots capturing the monument and the surrounding square.",
+        "location": "Great National Assembly Square",
+        "image": "/gallery/the-triumphal-arch-4.jpg"
+      },
+      {
+        "title": "Architectural Details",
+        "description": "Close-ups of the bas-reliefs and columns reveal impressive details.",
+        "location": "Triumphal Arch",
+        "image": "/gallery/the-triumphal-arch-5.jpg"
+      },
+      {
+        "title": "View Towards Government Buildings",
+        "description": "Photos with the Triumphal Arch in the foreground and official buildings in the background.",
+        "location": "Great National Assembly Square",
+        "image": "/gallery/the-triumphal-arch-8.jpg"
+      }
+    ]
+  },
+  "hotels": {
+    "title": "Accommodation Guide",
+    "hotels": [
+      {
+        "name": "Chișinău Center",
+        "desc": "The area around the Great National Assembly Square offers quick access to the Triumphal Arch and other important attractions. Ideal for tourists who want to be in the heart of the action.",
+        "price": "Recommended"
+      },
+      {
+        "name": "Botanica District",
+        "desc": "Located on the outskirts of the city, this district offers quieter accommodation options at accessible prices.",
+        "price": "Budget"
+      },
+      {
+        "name": "Buiucani Area",
+        "desc": "A picturesque residential area, suitable for an authentic and relaxing experience.",
+        "price": "Recommended"
+      },
+      {
+        "name": "Near Airport",
+        "desc": "For travelers with early morning or late flights, this area offers maximum convenience.",
+        "price": "Convenient"
+      }
+    ]
+  },
+  "gallery": {
+    "title": "Photo Gallery",
+    "subtitle": "Views of The Triumphal Arch",
+    "captions": [
+      "Front view",
+      "Architectural details",
+      "Square view",
+      "Columns",
+      "Bas-reliefs",
+      "Panoramic view",
+      "Winter scene",
+      "Surroundings",
+      "Night view",
+      "Sculptures",
+      "Visitors",
+      "Ceremonies",
+      "Details"
+    ],
+    "viewAll": "View on Google Maps",
+    "showAll": "View All Photos",
+    "showLess": "Show Less"
+  },
+  "reviews": {
+    "title": "Visitor Reviews",
+    "declaration": "Visitor feedback can be viewed via Google Maps.",
+    "moreReviews": "View more reviews on Google Maps",
+    "items": [
+      {
+        "name": "Ion P.",
+        "rating": 5,
+        "date": "2026-03-15",
+        "text": "A not-to-be-missed symbol of Chișinău. The architecture is impressive and the location is perfect for photography."
+      },
+      {
+        "name": "Maria T.",
+        "rating": 5,
+        "date": "2026-02-20",
+        "text": "I visited this monument during a parade. The atmosphere was fantastic, and the monument looks spectacular."
+      },
+      {
+        "name": "Andrei M.",
+        "rating": 4,
+        "date": "2026-01-10",
+        "text": "A place full of history. It's free and accessible anytime. I recommend daytime visiting for ideal lighting for photos."
+      },
+      {
+        "name": "Elena C.",
+        "rating": 5,
+        "date": "2025-12-05",
+        "text": "One of the most beautiful monuments in Chișinău. It's a perfect place to understand the history and culture of Moldova."
+      },
+      {
+        "name": "Vasile D.",
+        "rating": 5,
+        "date": "2025-11-18",
+        "text": "I was impressed by the architectural details. It's a landmark in Chișinău and an important national symbol."
+      },
+      {
+        "name": "Ana S.",
+        "rating": 5,
+        "date": "2025-10-30",
+        "text": "Perfect for a weekend walk. The monument is always well-maintained and offers a perspective on Moldova's history."
+      }
+    ]
+  },
+  "mapSection": {
+    "title": "Map Location",
+    "subtitle": "Great National Assembly Square, Chișinău, Moldova",
+    "openMaps": "View on Google Maps"
+  },
+  "footer": {
+    "rights": "© 2026 The Triumphal Arch Info",
+    "privacy": "Privacy Policy",
+    "terms": "Terms of Service",
+    "cookies": "Cookie Settings",
+    "officialResourcesTitle": "Official & Partner Resources",
+    "officialLinks": {
+      "moldovaCulture": "Ministry of Culture",
+      "moldovaTourism": "Moldova Tourism",
+      "monumente": "Monument Inspection Agency",
+      "chisinau": "Chisinau City Hall",
+      "chisinauProjects": "Chisinau Projects & Tourism"
+    },
+    "disclaimer": "This is an independent guide website dedicated to providing objective and accurate travel information."
+  },
+  "privacy": {
+    "title": "Privacy Policy",
+    "lastUpdated": "Last updated: May 2026",
+    "sections": [
+      {
+        "title": "Information Collection",
+        "content": "When you visit our website, we may automatically collect basic information about your device, browser, and browsing behavior to provide a better user experience. This information does not contain your personal identity."
+      },
+      {
+        "title": "Use of Cookies",
+        "content": "We use cookies to analyze website traffic and optimize page content. You can manage your preferences at any time through the Cookie Settings option at the bottom of our site."
+      },
+      {
+        "title": "Data Security and Protection",
+        "content": "We are committed to protecting the security of your privacy data and will not sell, rent, or trade your browsing data to any third-party commercial organizations."
+      }
+    ]
+  },
+  "terms": {
+    "title": "Terms of Service",
+    "lastUpdated": "Last updated: May 2026",
+    "sections": [
+      {
+        "title": "Website Content and Use",
+        "content": "This website provides travel, transportation, and historical information about The Triumphal Arch in Chișinău. All content is for reference only. Actual opening hours and ticket information for attractions may change at any time, please refer to official announcements."
+      },
+      {
+        "title": "Intellectual Property",
+        "content": "The text, images, and layout designs on this website are protected by copyright. Without explicit written permission, no one may use the website content for commercial profit."
+      },
+      {
+        "title": "Disclaimer",
+        "content": "We do our best to ensure the accuracy and timeliness of the information, but we bear no legal responsibility for any travel delays or losses caused directly or indirectly by the use of the information provided on this website."
+      }
+    ]
+  },
+  "cookieSettings": {
+    "title": "Cookie Settings",
+    "description": "Manage your cookie preferences.",
+    "essential": {
+      "title": "Essential Cookies",
+      "description": "Required for basic website functionality and cannot be switched off.",
+      "badge": "Always active"
+    },
+    "analytics": {
+      "title": "Analytics",
+      "description": "Help us understand visitor behavior and improve the website."
+    },
+    "marketing": {
+      "title": "Marketing",
+      "description": "Used for cross-site tracking and personalized ad delivery."
+    },
+    "save": "Save Preferences",
+    "saved": "Preferences saved!"
+  },
+  "officialManagement": {
+    "title": "About The Triumphal Arch",
+    "text": "The Triumphal Arch is an important historic monument located in the heart of Chișinău, representing a symbol of the national identity of the Republic of Moldova."
+  }
+}
