@@ -255,11 +255,13 @@
     "openMaps": "View on Google Maps"
   },
   "footer": {
-    "rights": "© 2026 The Triumphal Arch Info",
+    "title": "The Triumphal Arch",
+    "subtitle": "Historic Monument · Chișinău",
+    "rights": "© 2026 The Triumphal Arch Historic Monument Independent Tourism Research Association · All rights reserved.",
     "privacy": "Privacy Policy",
     "terms": "Terms of Service",
     "cookies": "Cookie Settings",
-    "officialResourcesTitle": "Official & Partner Resources",
+    "officialResourcesTitle": "Related Resources & Information",
     "officialLinks": {
       "moldovaCulture": "Ministry of Culture",
       "moldovaTourism": "Moldova Tourism",
@@ -267,7 +269,7 @@
       "chisinau": "Chisinau City Hall",
       "chisinauProjects": "Chisinau Projects & Tourism"
     },
-    "disclaimer": "This is an independent guide website dedicated to providing objective and accurate travel information."
+    "disclaimer": "This website is an independent third-party travel information project. We have no affiliation with the local government or other official agencies."
   },
   "privacy": {
     "title": "Privacy Policy",

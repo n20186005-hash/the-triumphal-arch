@@ -1,0 +1,88 @@
+
+
+
+你正在用（Next.js开发）
+为一个新景点【 The Triumphal Arch 】构建静态/Next.js 单页指南网站。
+页面只需要支持中文和英文双语言
+the-triumphal-arch
+
+摩尔多瓦基希讷乌	The Triumphal Arch
+
+The Triumphal Arch
+Arcul de Triumf
+4.7(7,629)
+The Great National Assembly Square, Chișinău, Moldova
++37322201707
+2RFM+W2 Chișinău, Moldova
+
+https://maps.app.goo.gl/5fERqY3q8DvdoLFL6
+
+
+首屏背景图要引用以下
+C:\Users\Administrator\Downloads\摩尔多瓦\the-triumphal-arch\public\
+
+
+删除原先友情链接，新增以下友情链接
+摩尔多瓦共和国文化
+https://mc.gov.md/
+摩尔多瓦国家旅游
+https://turism.gov.md/
+摩尔多瓦古迹检查
+https://airm.md/
+基希讷乌市政厅
+https://www.chisinau.md/
+基希讷乌市政项目与旅游
+https://proiecte.chisinau.md/
+
+
+
+
+在Google地图上查看位置都跳转为 https://maps.app.goo.gl/5fERqY3q8DvdoLFL6
+页面一共四个链接每一个都需要修改
+
+
+照片画廊
+精彩照片 显示照片不全目前只显示8张，需要有显示完整照片显示功能
+检查照片名称是否正确并修正
+
+
+删除 探索更多 板块
+
+
+首屏谷歌地图位置跳转为 https://maps.app.goo.gl/5fERqY3q8DvdoLFL6
+
+照片画廊
+在Google地图上查看位置跳转为 https://maps.app.goo.gl/5fERqY3q8DvdoLFL6
+
+游客评价
+在Google地图上查看位置跳转为 https://maps.app.goo.gl/5fERqY3q8DvdoLFL6
+
+地图位置
+在Google地图上查看位置跳转为 https://maps.app.goo.gl/5fERqY3q8DvdoLFL6
+
+首屏右侧切换中文的时候 网站没转为/zh
+
+新增罗马尼亚语
+
+
+生成一个文件忽略不需要上传的文件
+
+
+
+我们网站是 
+检查下是否有错误
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

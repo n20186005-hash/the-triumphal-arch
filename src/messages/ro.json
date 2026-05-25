@@ -254,11 +254,13 @@
     "openMaps": "Vezi pe Google Maps"
   },
   "footer": {
-    "rights": "© 2026 Arcul de Triumf Info",
+    "title": "Arcul de Triumf",
+    "subtitle": "Monument istoric · Chișinău",
+    "rights": "© 2026 Arcul de Triumf Monument Istoric Asociația Independentă de Cercetare Turistică · Toate drepturile rezervate.",
     "privacy": "Politica de confidențialitate",
     "terms": "Termeni de utilizare",
     "cookies": "Setări Cookie",
-    "officialResourcesTitle": "Resurse oficiale și partenere",
+    "officialResourcesTitle": "Resurse și informații conexe",
     "officialLinks": {
       "moldovaCulture": "Ministerul Culturii",
       "moldovaTourism": "Turism Moldova",
@@ -266,7 +268,7 @@
       "chisinau": "Primăria Chișinău",
       "chisinauProjects": "Proiecte Chișinău"
     },
-    "disclaimer": "Acesta este un site ghid independent dedicat furnizării de informații de călătorie obiective și accurate."
+    "disclaimer": "Acesta este un proiect independent de informații turistice de la o terță parte. Nu avem nicio afiliere cu guvernul local sau alte agenții oficiale."
   },
   "privacy": {
     "title": "Politica de confidențialitate",
