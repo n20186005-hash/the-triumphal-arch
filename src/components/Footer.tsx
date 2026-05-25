@@ -23,11 +23,14 @@ export default function Footer() {
         <div className="flex flex-col sm:flex-row justify-between items-start gap-8 mb-8">
           <div className="max-w-md">
             <h3 className="font-display text-lg font-semibold mb-1" style={{ color: 'var(--text-primary)' }}>
-              {t('officialResourcesTitle')}
+              {t('title')}
             </h3>
             <p className="text-xs mb-4" style={{ color: 'var(--text-muted)' }}>
-              {t('disclaimer')}
+              {t('subtitle')}
             </p>
+            <div className="font-semibold text-sm mb-2 mt-4" style={{ color: 'var(--text-primary)' }}>
+              {t('officialResourcesTitle')}
+            </div>
             <div className="flex flex-col gap-2">
               {friendLinks.map((link) => (
                 <a
