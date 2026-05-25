@@ -15,11 +15,19 @@ export async function generateMetadata({
 }): Promise<Metadata> {
   const { locale } = await params;
   const messages = (await import(`@/messages/${locale}.json`)).default;
-  const baseUrl = 'https://princesstgardens.vercel.app';
+  const baseUrl = 'https://thetriumphalarchchisinau.com';
 
   const zhUrl = `${baseUrl}/zh`;
   const enUrl = `${baseUrl}/en`;
-  const selfUrl = locale === 'zh' ? zhUrl : enUrl;
+  const roUrl = `${baseUrl}/ro`;
+  
+  let selfUrl = enUrl;
+  if (locale === 'zh') selfUrl = zhUrl;
+  if (locale === 'ro') selfUrl = roUrl;
+
+  let ogLocale = 'en_US';
+  if (locale === 'zh') ogLocale = 'zh_CN';
+  if (locale === 'ro') ogLocale = 'ro_RO';
 
   return {
     title: messages.meta.title,
@@ -29,6 +37,7 @@ export async function generateMetadata({
       languages: {
         'zh': zhUrl,
         'en': enUrl,
+        'ro': roUrl,
         'x-default': zhUrl,
       },
     },
@@ -36,8 +45,8 @@ export async function generateMetadata({
       title: messages.meta.title,
       description: messages.meta.description,
       url: selfUrl,
-      siteName: "Princes Street Gardens",
-      locale: locale === 'zh' ? 'zh_CN' : 'en_US',
+      siteName: "The Triumphal Arch",
+      locale: ogLocale,
       type: 'website',
     },
   };
@@ -60,7 +69,7 @@ export default async function LocaleLayout({
   const messages = await getMessages();
 
   return (
-    <html lang={locale === 'zh' ? 'zh-CN' : 'en'} suppressHydrationWarning>
+    <html lang={locale === 'zh' ? 'zh-CN' : locale === 'ro' ? 'ro' : 'en'} suppressHydrationWarning>
       <head>
         <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-XXXXXXXXXX" crossOrigin="anonymous" />
         <meta name="google-adsense-account" content="ca-pub-XXXXXXXXXX" />
